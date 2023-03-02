@@ -7,6 +7,7 @@
     <title>VISTA DEL PRODUCTO </title>
 </head>
 <body>
+    INDEX DE EMPLEADOS 
     
 </body>
 </html>

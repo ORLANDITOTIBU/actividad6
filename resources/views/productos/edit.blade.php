@@ -7,6 +7,7 @@
     <title>EDICION DEL PRODUCTO</title>
 </head>
 <body>
+    EDICION DEL PRODUCTO 
     
 </body>
 </html>
